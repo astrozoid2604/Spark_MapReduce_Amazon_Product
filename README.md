@@ -5,6 +5,8 @@
 Develop a Spark program to analyse the Amazon Grocery and Gourmet Food dataset and identify the top 10 products based on the daily number of reviews.
 Report the average rating and brand name of these products.
 
+![thumbnail](thumbnail.png)
+
 ---
 
 ## Dataset
@@ -86,4 +88,4 @@ List of output files:
 1. review_rdd_outfile.txt: Contains final form of review RDD.
 1. meta_rdd_outfile.txt: Contains final form of meta RDD.
 
-![result.png](result.png)
+![result](result.png)
